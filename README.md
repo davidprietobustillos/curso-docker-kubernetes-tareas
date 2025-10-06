@@ -10,3 +10,4 @@ Este repositorio contiene la resolución de las tareas del curso de Docker & Kub
 ## Índice de Tareas
 
 clase1: https://github.com/davidprietobustillos/curso-docker-kubernetes-tareas/tree/main/clase1
+clase2: https://github.com/davidprietobustillos/curso-docker-kubernetes-tareas/tree/main/clase2
