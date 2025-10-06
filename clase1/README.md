@@ -13,4 +13,7 @@ docker logs mi-mysql
 
 # Accede al servicio (navegador para httpd, logs para redis/mysql) 
 docker logs some-mysql
-![mostrar que el existe el contenedor](docker_logs_mi_mysql.png)
+![mostrar el log de mysql](docker_logs_mi_mysql.png)
+
+# Limpieza
+![mostrar que se borro el contenedor y la imagen](docker_remove_image_and_container.png)
